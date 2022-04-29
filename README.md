@@ -1,14 +1,11 @@
-# Welcome!
+<h1 align="center">Hello 👋, I'm Gabriel Camargo Leite</h1>
 
- 
+![gifCityHacker](https://user-images.githubusercontent.com/55204419/166064507-b4456d92-33b4-46e2-82d9-0e6a6a06cb77.gif)
 
-## I'm (Gabriel Camargo)!
+<h3 align="center">A backend developer from Brazil</h3>
 
-:computer: I'm back-end developer!
-
-:house_with_garden: I’m from Brazil.
-
-:books: I’m currently learning microservices.
+- 🌱 I’m currently learning Spring Boot with Java
+- 🔭 I’m looking for a developer job, that will increase my skills 🦾! 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -35,7 +32,10 @@
   </a>
   <a href="https://www.postgresql.org/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="40" height="40"/> 
-  </a>  
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="Amazon Web Services AWS" width="40" height="40"/> 
+  </a>
   <a href="https://www.docker.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" alt="docker" width="40" height="40"/> 
   </a>
@@ -60,9 +60,11 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-camargo-leite-915452196/)](https://www.linkedin.com/in/gabriel-camargo-leite-915452196/)
 
-</p>
+ [![Outlook Badge](https://img.shields.io/badge/email--000?style=social&logo=microsoft-outlook&logoColor=0078d4&link=mailto:gabriel.cleite@outlook.com)](mailto:gabriel.cleite@outlook.com)
+ 
+</p> 
   
-- Thanks for visiting!
+Thanks for visiting! =]
 
 <!--
 **GabrielCamargoL/GabrielCamargoL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
