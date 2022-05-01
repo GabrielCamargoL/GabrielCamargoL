@@ -4,9 +4,12 @@
 
 <h3 align="center">A backend developer from Brazil</h3>
 
-- 🌱 I’m currently learning Spring Boot with Java
-- 🔭 I’m looking for a developer job, that will increase my skills 🦾! 
+* 🖥️  See my portfolio at [GabrielCamargoL](http://gabrielcamargol.github.io/Portfolio-Fatec-DD/src/)
+* ✉️  You can contact me at [gabriel.cleite@outlook.com](mailto:gabriel.cleite@outlook.com)
+* 🤝  I'm open to collaborating on Spring Boot based projects, that can increase my skills
 
+
+### Skills
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://spring.io/" target="_blank"> 
@@ -51,16 +54,13 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GabrielCamargoL&count_private=true&hide=issues,stars&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="http://www.github.com/GabrielCamargoL"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielCamargoL&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
  
 
-## How to reach me
-<p align="left">
+### Socials
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/GabrielCamargoL/GabrielCamargoL)](https://github.com/GabrielCamargoL/GabrielCamargoL)
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-camargo-leite-915452196/)](https://www.linkedin.com/in/gabriel-camargo-leite-915452196/)
-
- [![Outlook Badge](https://img.shields.io/badge/email--000?style=social&logo=microsoft-outlook&logoColor=0078d4&link=mailto:gabriel.cleite@outlook.com)](mailto:gabriel.cleite@outlook.com)
+<p align="left"> <a href="https://discord.com/users/GabrielCamargoL#8654" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/GabrielCamargoL" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/gabriel-camargo-leite-915452196/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
  
 </p> 
   
