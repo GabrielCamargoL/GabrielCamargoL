@@ -6,7 +6,7 @@
 
 * 🖥️  See my portfolio at [GabrielCamargoL](http://gabrielcamargol.github.io/Portfolio-Fatec-DD/src/)
 * ✉️  You can contact me at [gabriel.cleite@outlook.com](mailto:gabriel.cleite@outlook.com)
-* 🤝  I'm open to collaborating on Spring Boot based projects, that can increase my skills
+* 🤝  I'm open to collaborating on projects, that can increase my skills
 
 
 ### Skills
