@@ -2,7 +2,7 @@
 
 ![gifCityHacker](https://user-images.githubusercontent.com/55204419/166064507-b4456d92-33b4-46e2-82d9-0e6a6a06cb77.gif)
 
-<h3 align="center">A backend developer from Brazil</h3>
+<h3 align="center">A fullstack developer from Brazil</h3>
 
 * 🖥️  See my portfolio at [GabrielCamargoL](http://gabrielcamargol.github.io/Portfolio-Fatec-DD/src/)
 * ✉️  You can contact me at [gabriel.cleite@outlook.com](mailto:gabriel.cleite@outlook.com)
